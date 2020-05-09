@@ -13,18 +13,20 @@ It is not pleasure, but instead a kind of desirable longing.
 It is a feeling that I know well, praise the Lord,
 and I have decided to record all the places that I see or feel it.
 
-# Narrative
+# Television
 * In *Avatar: The Last Airbender*, in Uncle Iroh.
   In his patience and loving grace for Zuko,
   in his strength and commitment to defending what is good,
   in the way that anyone who meets him is better for the meeting.
   Also in Zuko, in his redemption.
-* In *Lord of the Rings*, in Valinor,
-  in the hope that a people shaped by tragedy will see a better world.
-  Also other places, really all throughout the story.
+* In *Doctor Who*, in [Rory Williams, The Last Centurion](https://www.youtube.com/watch?v=hRDB0evx58k).
+
+# Literature
+* In *The Lord of the Rings*, constantly.
 * In Narnia's *The Last Battle*,
   when we learn that all of the stories have only been "the cover and title page"
   in an endless, ever-improving story.
+* In *The Wingfeather Saga*, constantly.
 
 # Music
 * In "See You Again", by The Gray Havens in *She Waits*.
