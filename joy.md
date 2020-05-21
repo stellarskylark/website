@@ -48,7 +48,7 @@ and I have decided to record all the places that I see or feel it.
   O lei, O lai, O Lord /
   He will tear your city down /
   O lei, O lai, O Lord."
-* In "Lift Together" from the game Warframe.
+* In "Lift Together" from the game *Warframe*.
   "Cold, the air and water flowing. /
   Hard, the land we call our home. /
   Push, to keep the dark from coming. /
@@ -61,6 +61,9 @@ and I have decided to record all the places that I see or feel it.
   "When I grow up /
   I will be tall enough to reach the branches /
   That I have to reach to climb the trees you get to climb when you're grown up."
+* In "Stay I Pray You" from *Anastasia*.
+  "Hard and sweet and bitter to leave it all /
+  I'll bless my homeland 'til I die."
 
 # Elsewhere
 * In the opening of *Legend of Zelda: Breath of the Wild*,
