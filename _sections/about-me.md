@@ -10,7 +10,8 @@ such as film, video games, tabletop RPG campaigns, and theatre productions.
 Past and current projects include:
 - Personal DnD campaign, titled *Thanes of the Nameless Spark* (Ongoing)
 - [Theatricks](https://www.theatricks.org/) production of *House at Pooh Corner* (Summer 2019)
-- Theatricks [Supporting Cast](https://www.theatricks.org/supporting-cast.html) production of *Alice in Wonderland* (Early 2020)
+- *Worlds*, a series of solo piano pieces exploring music's ability to excite
+  the visual and narrative imagination.
 
 My stylistic influences include:
 - Film composers such as John Powell, John Williams, and Danny Elfman
@@ -19,6 +20,8 @@ My stylistic influences include:
 - Video game composers such as Koji Kondo, Toby Fox, and Christopher Larkin
 
 As a performer, I sing tenor in the Bison Glee Club,
-and am the bassist for the Bison Jazz Orchestra.
+was the bassist for the Bison Jazz Orchestra,
+and am the bassist for Symphonic Winds.
 I have also performed several roles with Theatricks community theatre in Sherman, TX,
 including Chef Louis in *The Little Mermaid*, and Tom Thumb in *Peter Rabbit*.
+I also played bass for *A Year With Frog and Toad* with Theatricks.
