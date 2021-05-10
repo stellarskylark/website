@@ -1,0 +1,9 @@
+body {
+  margin: 5% auto;
+  max-width: 60%;
+  background: #f7f7f7;
+  color: #444444;
+  line-height: 1.8;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
