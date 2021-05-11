@@ -12,7 +12,7 @@
    viewBox="0 0 185.96643 52.7656"
    version="1.1"
    id="svg8"
-   sodipodi:docname="myflag_lineart.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    inkscape:export-filename="/home/andrew/Documents/personal/myflag.png"
    inkscape:export-xdpi="96"
@@ -26,13 +26,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="230.08054"
-     inkscape:cy="-95.165709"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="190.5117"
+     inkscape:cy="89.135779"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1888"
+     inkscape:window-width="1320"
      inkscape:window-height="1001"
      inkscape:window-x="15"
      inkscape:window-y="62"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,7 +62,7 @@
      transform="translate(-150.89874,-237.85316)">
     <path
        sodipodi:type="star"
-       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:2.95648;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#87de87;fill-opacity:1;stroke:#ffeeaa;stroke-width:2.95648;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path838"
        sodipodi:sides="12"
        sodipodi:cx="177.28154"
@@ -86,18 +86,18 @@
        id="path866"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#333333;stroke-width:0.984484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 152.45629,270.90911 H 202.9496"
+       style="fill:none;stroke:#333333;stroke-width:1.00655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 150.88508,270.90911 h 52.78239"
        id="path868"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#333333;stroke-width:1.00638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 152.21855,257.5628 h 50.01331"
+       style="fill:none;stroke:#333333;stroke-width:1.0337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 150.89226,257.5628 h 52.76511"
        id="path870"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:22.5778px;line-height:1.25;font-family:Lora;-inkscape-font-specification:Lora;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       style="font-size:22.5778px;line-height:1.25;font-family:Lora;-inkscape-font-specification:Lora;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#f7f7f7;fill-opacity:1;"
        x="208.17201"
        y="272.57846"
        id="text845"><tspan
@@ -105,6 +105,6 @@
          id="tspan843"
          x="208.17201"
          y="272.57846"
-         style="font-weight:bold;font-size:22.5778px;stroke-width:0.264583">Andrew Hill</tspan></text>
+         style="font-weight:bold;font-size:22.5778px;stroke-width:0.264583;fill:#f7f7f7;fill-opacity:1;">Andrew Hill</tspan></text>
   </g>
 </svg>

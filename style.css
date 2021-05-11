@@ -1,34 +1,35 @@
 nav {
-  background: #f7f7f7;
+  color: #f7f7f7;
+  background: #333333;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 0;
   max-width: 78%;
   min-width: 800px;
-  border-radius: 5px;
+  border-bottom-style: solid;
+  border-color: #f7f7f7;
   font-size: 16pt;
   padding: 10px;
 }
 #nav-links a {
-  background: #f7f7f7;
-  color: #333333;
+  background: #333333;
+  border-bottom-style: solid;
+  border-color: #333333;
+  color: #f7f7f7;
   padding: 10px;
   text-decoration: none;
   font-weight: bold;
 }
 
 #nav-links a:hover {
-  background: #333333;
-  color: #f7f7f7;
-  border-radius: 5px;
+  border-color: #87de87;
 }
 
 #nav-links a.focus {
-  background: #333333;
-  color: #f7f7f7;
-  border-radius: 5px;
+  border-color: #87de87;
 }
 #contact-links a {
-  color: #333333;
+  color: #f7f7f7;
 }
 body {
   background: #333333
@@ -36,7 +37,7 @@ body {
 main {
   padding: 20px;
   margin: 2% auto;
-  border-radius: 5px;
+  border-radius: 10px;
   max-width: 60%;
   min-width: 650px;
   background: #f7f7f7;
