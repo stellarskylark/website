@@ -21,9 +21,6 @@ link the license,
 and indicate whether anything was changed.
 However, these are my preferred notices.
 
-# Sheet Music
-
-* [Worlds I: Shgalan](https://www.sheetmusicplus.com/title/worlds-i-shgalan-digital-sheet-music/21797762)
-  ([Listen](https://www.youtube.com/watch?v=Uzul7ev4GQU))
-* [Worlds II: Tikaklh](https://www.sheetmusicplus.com/title/worlds-ii-tikaklh-digital-sheet-music/21797778)
-  ([Listen](https://www.youtube.com/watch?v=D9UDMK0-Z0k))
+Catalog
+=======
+<table>
