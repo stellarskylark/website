@@ -1,5 +1,5 @@
 nav {
-  color: #f7f7f7;
+  color: #f0f0f0;
   background: #333333;
   margin-left: auto;
   margin-right: auto;
@@ -7,15 +7,16 @@ nav {
   max-width: 78%;
   min-width: 800px;
   border-bottom-style: solid;
-  border-color: #f7f7f7;
+  border-color: #f0f0f0;
   font-size: 16pt;
   padding: 10px;
 }
+
 #nav-links a {
   background: #333333;
   border-bottom-style: solid;
   border-color: #333333;
-  color: #f7f7f7;
+  color: #f0f0f0;
   padding: 10px;
   text-decoration: none;
   font-weight: bold;
@@ -24,13 +25,44 @@ nav {
 #nav-links a:hover {
   border-color: #87de87;
 }
-
 #nav-links a.focus {
   border-color: #87de87;
 }
 #contact-links a {
-  color: #f7f7f7;
+  color: #f0f0f0;
 }
+
+a.button {
+  border: hidden;
+  background: #87de87;
+  border-radius: 5px;
+  color: #333333;
+  padding: 3px;
+  text-decoration: none;
+  font-weight: bold;
+}
+a.button:hover {
+  color: #111111;
+  background: #67be67;
+}
+
+a {
+  color: #333333;
+  text-decoration: none;
+  border-bottom: 1px solid #333333;
+}
+a.cc {
+  border-bottom: none;
+}
+
+blockquote {
+  font-style: italic;
+  margin-left: 30px;
+  border-left: solid;
+  border-color: #87de87;
+  padding-left: 10px
+}
+
 body {
   background: #333333
 }
@@ -40,7 +72,7 @@ main {
   border-radius: 10px;
   max-width: 60%;
   min-width: 650px;
-  background: #f7f7f7;
+  background: #f0f0f0;
   color: #333333;
   line-height: 1.8;
   font-family: 'Lora', serif;

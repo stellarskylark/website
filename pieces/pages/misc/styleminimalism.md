@@ -1,1 +1,0 @@
-Style = Minimalism
