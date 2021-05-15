@@ -9,24 +9,10 @@ Welcome to my website!
 Featured Works
 ==============
 <center>
-<table>
-<tr>
-  <td>
-    <iframe class="image fit" src="https://www.youtube.com/embed/CDst5Mw0Tdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </td>
-  <td>
-    <iframe class="image fit" src="https://www.youtube.com/embed/Nu0Ac7mtOOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </td>
-</tr>
-<tr>
-  <td>
-    <iframe class="image fit" src="https://www.youtube.com/embed/2Qh0R5XheyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </td>
-  <td>
-    <iframe class = "image fit" src="https://www.youtube.com/embed/rkuuDhSVE6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </td>
-</tr>
-</table>
+<iframe class="image fit" src="https://www.youtube.com/embed/CDst5Mw0Tdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="image fit" src="https://www.youtube.com/embed/Nu0Ac7mtOOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="image fit" src="https://www.youtube.com/embed/2Qh0R5XheyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class = "image fit" src="https://www.youtube.com/embed/rkuuDhSVE6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Contact

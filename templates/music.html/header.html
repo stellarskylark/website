@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="${lang}">
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="${keywords}" />
   <meta name="description" content="${description}" />
   <meta name="author" content="${author}" />
@@ -9,9 +10,40 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/e830867d9d.js" crossorigin="anonymous"></script>
+    <script>
+      function showMenu() {
+        buttons = document.getElementById("mobile-buttons")
+        if (buttons.style.display == "none") {
+          buttons.style.display = "block";
+        } else {
+          buttons.style.display = "none";
+        }
+      }
+    </script>
 </head>
 <body>
-  <nav id="menuwrap">
+  <nav id="mobile-menuwrap">
+    <table width=100%>
+      <tr>
+        <td width=32px>
+          <i class="fas fa-bars" onClick="showMenu()"></i>
+        </td>
+        <td>
+          <img style="margin-left:20px"; src="assets/logo.svg" height="70px" width="246px"/>
+        </td>
+      </tr>
+      <tr>
+        <td colspan=2>
+          <div id="mobile-buttons" style="display:none;">
+            <a href="index.html">Home</a><br>
+            <a href="music.html" class="focus">Catalog</a><br>
+            <a href="blog.html">Blog</a><br>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </nav>
+  <nav id="desktop-menuwrap">
     <table id="menu" width="100%" border="0">
     <tr>
       <td id="logo" align="left" width="250px"><img src="assets/logo.svg" height="70px" width="246px"/></td>

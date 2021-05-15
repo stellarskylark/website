@@ -1,9 +1,7 @@
 nav {
   color: #f0f0f0;
   background: #333333;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
+  margin: auto;
   max-width: 78%;
   min-width: 800px;
   border-bottom-style: solid;
@@ -20,6 +18,19 @@ nav {
   padding: 10px;
   text-decoration: none;
   font-weight: bold;
+}
+
+#mobile-buttons {
+  line-height: 60px;
+}
+#mobile-buttons a {
+  text-align: center;
+  color: #f0f0f0;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 5px
+}
+#mobile-buttons a.focus {
+  color: #87de87;
 }
 
 #nav-links a:hover {
@@ -64,7 +75,8 @@ blockquote {
 }
 
 body {
-  background: #333333
+  background: #333333;
+  margin: 0px;
 }
 main {
   padding: 20px;
@@ -77,4 +89,31 @@ main {
   line-height: 1.8;
   font-family: 'Lora', serif;
   font-size: 14pt;
+}
+
+#mobile-menuwrap {
+  display: none;
+}
+
+@media screen and (max-width: 850px) {
+  #desktop-menuwrap {
+    display: none;
+  }
+  #mobile-menuwrap {
+    display: block;
+  }
+  main {
+    width: auto;
+    border-radius: 0;
+    margin: 0px;
+    max-width: 100%;
+    min-width: 0px;
+  }
+  nav {
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+    border: none;
+    font-size: 25pt;
+  }
 }
