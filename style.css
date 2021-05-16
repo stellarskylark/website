@@ -63,7 +63,7 @@ a {
   text-decoration: none;
   border-bottom: 1px solid #333333;
 }
-a.cc {
+a.cc, a.rss {
   border-bottom: none;
 }
 
