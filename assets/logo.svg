@@ -17,8 +17,11 @@
    inkscape:export-filename="/home/andrew/Documents/personal/myflag.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
-  <defs
-     id="defs2" />
+  <defs id="defs2">
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#565656"
