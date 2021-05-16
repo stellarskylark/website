@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Andrew Hill</title>
+    <description>Updates from composer Andrew Hill.</description>
+    <language>en-us</language>
+    <link>https://andrewkhill.com/rss.xml</link>
+    <atom:link href="https://andrewkhill.com/rss.xml" rel="self" type="application/rss+xml"/>

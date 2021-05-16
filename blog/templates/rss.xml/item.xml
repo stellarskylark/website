@@ -1,0 +1,7 @@
+<item>
+  <title>${title}</title>
+  <guid>https://andrewkhill.com/${filename}</guid>
+  <link>https://andrewkhill.com/${filename}</link>
+  <pubDate>${rfc-date}</pubDate>
+  <description>${description}</description>
+</item>
