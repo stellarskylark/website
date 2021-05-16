@@ -27,7 +27,8 @@ nav {
   text-align: center;
   color: #f0f0f0;
   border-bottom: 2px solid #f0f0f0;
-  padding-bottom: 5px
+  padding-bottom: 5px;
+  font-weight: bold;
 }
 #mobile-buttons a.focus {
   color: #87de87;
@@ -71,7 +72,8 @@ blockquote {
   margin-left: 30px;
   border-left: solid;
   border-color: #87de87;
-  padding-left: 10px
+  padding-left: 10px;
+  word-wrap: break-word;
 }
 
 body {
@@ -95,6 +97,12 @@ main {
   display: none;
 }
 
+.desktop {
+  display: block;
+}
+.mobile {
+  display: none;
+}
 @media screen and (max-width: 850px) {
   #desktop-menuwrap {
     display: none;
@@ -110,10 +118,17 @@ main {
     min-width: 0px;
   }
   nav {
-    margin: 0px;
     min-width: 0px;
     width: 100%;
     border: none;
     font-size: 25pt;
+    padding: 0px;
+    padding-top: 10px;
+  }
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
   }
 }

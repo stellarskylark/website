@@ -1,4 +1,11 @@
-<tr>
+<tr class="desktop">
   <td width="305px" style="text-align:center"><a href="${filename}">${title}</a><iframe class="image fit" src="https://www.youtube.com/embed/${ytcode}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   <td>${description}</td>
 </tr>
+<div class="mobile">
+  <p>
+    <a href="${filename}">${title}</a><br>
+    <iframe class="image fit" src="https://www.youtube.com/embed/${ytcode}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+    ${description}
+  </p>
+</div>
