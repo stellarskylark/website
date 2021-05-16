@@ -1,5 +1,5 @@
 It's always hurricane season on Shgalan!
-Welcome to a world of constant winds and frequent storms—my favorite weather!
+Welcome to a world of constant winds and frequent storms - my favorite weather!
 
 Worlds I: Shgalan is a part of my ongoing Worlds series.
 Worlds explores music's ability to set a scene and tell a story.
