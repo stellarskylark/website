@@ -34,5 +34,6 @@ cp style.css ./output
 cp -r assets ./output/assets
 
 # For deploying changes to production
-#rm -r /var/www/andrewkhill.com/public_html/*
-#cp -r ./output /var/www/andrewkhill.com/public_html/
+rm -r /var/www/andrewkhill.com/public_html/*
+cp -r ./output/* /var/www/andrewkhill.com/public_html/
+cp ../public-files/* /var/www/andrewkhill.com/public_html/

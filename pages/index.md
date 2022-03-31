@@ -1,4 +1,4 @@
-I'm Andrew Hill, a composer currently studying at Oklahoma Baptist University.
+I'm Skylar Hill, a composer currently studying at Oklahoma Baptist University.
 I love to tell stories with my music, whether I'm writing for narrative media like theatre, film, or video games,
 or writing music for music's sake.
 
@@ -33,13 +33,11 @@ I'm always excited to work on new projects!
 You can contact me in one of the following ways:
 - [Direct message on Facebook](https://facebook.com/ahillcomposer)
 - [Direct message on Twitter](https://twitter.com/ahillcomposer)
-- Email me at andrew@andrewkhill.com
 
 I look forward to hearing from you!
 
 About Me
 ========
-I'm a senior composition major at Oklahoma Baptist University.
 While I do write pure music for its own sake, my primary interest is scoring narrative works
 such as film, video games, tabletop RPG campaigns, and theatre productions.
 Past and current projects include:

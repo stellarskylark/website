@@ -1,6 +1,6 @@
 Welcome!
 ========
-I'm Andrew Hill, a composer currently studying at Oklahoma Baptist University.
+I'm Skylar Hill, a composer currently studying at Oklahoma Baptist University.
 I love to tell stories with my music, whether I'm writing for narrative media like theatre, film, or video games,
 or writing music for music's sake.
 
@@ -26,7 +26,6 @@ I look forward to hearing from you!
 
 About Me
 ========
-I'm a senior composition major at Oklahoma Baptist University.
 While I love writing music for music's sake, my primary interest is scoring narrative works
 such as film, theatre productions, video games, and tabletop RPG campaigns.
 Past and current projects include:
@@ -49,6 +48,6 @@ I'm a performer as well; I have had the honor of performing with the following e
 
 I also enjoy working with computers and computer programming.
 In fact, I was a computer science major for my first two years of college!
-If you're interested in that sort of thing, check out my [GitHub](https://github.com/astroengisci)!
+If you're interested in that sort of thing, check out my [GitHub](https://github.com/stellarskylark)!
 I also wrote this website myself,
 using [saait](https://codemadness.org/saait.html) and [smu](https://github.com/Gottox/smu).
